@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "R5CR91XGTPJ",
         "name": "com.Elon.Test2",
-        "processId": 24774,
+        "processId": 8071,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -24,6 +24,12 @@
             "deviceId": "R5CR91XGTPJ",
             "name": "com.Elon.Test2",
             "processId": 24774,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR91XGTPJ",
+            "name": "com.Elon.Test2",
+            "processId": 8071,
             "exited": false
         }
     ],

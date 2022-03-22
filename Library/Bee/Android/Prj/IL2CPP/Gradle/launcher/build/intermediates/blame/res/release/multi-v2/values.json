@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\zfert\\Games\\Unity\\Capstone\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\zfert\\Games\\Capstone\\Capstone\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\zfert\\Games\\Capstone\\Capstone\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "1048",
+                        "startColumns": "4",
+                        "startOffsets": "61366",
+                        "endColumns": "45",
+                        "endOffsets": "61407"
+                    }
+                },
                 {
                     "source": "C:\\Users\\zfert\\.gradle\\caches\\transforms-2\\files-2.1\\2c5efdfa0f3c1af63b0eb951cfff5db1\\jetified-sdk\\res\\values\\values.xml",
                     "from": {
@@ -20,6 +37,25 @@
                         "endLines": "436,478,479,1120,1145,1152,1156,1159,1181,1218,1220,1227,1230,1233,1235,5102,5106,5111",
                         "endColumns": "42,53,54,45,37,36,36,89,117,84,151,62,25,34,36,12,12,12",
                         "endOffsets": "21789,24667,24722,66525,69492,70182,70639,70978,74069,80796,81101,82161,82425,82642,82795,340047,340208,340447"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zfert\\Games\\Capstone\\Capstone\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "3254,4154,4157",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "215637,279350,279488",
+                        "endLines": "3255,4156,4160",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "215732,279483,279710"
                     }
                 },
                 {
@@ -114,40 +150,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\zfert\\Games\\Unity\\Capstone\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "55,97",
-                        "endColumns": "40,65",
-                        "endOffsets": "93,160"
-                    },
-                    "to": {
-                        "startLines": "1115,1150",
-                        "startColumns": "4,4",
-                        "startOffsets": "65745,69965",
-                        "endColumns": "42,67",
-                        "endOffsets": "65783,70028"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\zfert\\Games\\Unity\\Capstone\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\ids.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "46",
-                        "endOffsets": "97"
-                    },
-                    "to": {
-                        "startLines": "1048",
-                        "startColumns": "4",
-                        "startOffsets": "61366",
-                        "endColumns": "45",
-                        "endOffsets": "61407"
-                    }
-                },
-                {
                     "source": "C:\\Users\\zfert\\.gradle\\caches\\transforms-2\\files-2.1\\f868218913368b22b69be884c506cecf\\fragment-1.3.6\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,10",
@@ -202,6 +204,23 @@
                         "endLines": "8386",
                         "endColumns": "24",
                         "endOffsets": "536903"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zfert\\Games\\Capstone\\Capstone\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,97",
+                        "endColumns": "40,65",
+                        "endOffsets": "93,160"
+                    },
+                    "to": {
+                        "startLines": "1115,1150",
+                        "startColumns": "4,4",
+                        "startOffsets": "65745,69965",
+                        "endColumns": "42,67",
+                        "endOffsets": "65783,70028"
                     }
                 },
                 {
@@ -293,25 +312,6 @@
                         "startOffsets": "62209,67995",
                         "endColumns": "67,166",
                         "endOffsets": "62272,68157"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\zfert\\Games\\Unity\\Capstone\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "5,2,7",
-                        "startColumns": "0,0,0",
-                        "startOffsets": "190,53,288",
-                        "endLines": "6,4,10",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "286,188,513"
-                    },
-                    "to": {
-                        "startLines": "3254,4154,4157",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "215637,279350,279488",
-                        "endLines": "3255,4156,4160",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "215732,279483,279710"
                     }
                 },
                 {
