@@ -60,6 +60,7 @@
     <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.13.0\Hello Cardboard\Scripts\ObjectController.cs" />
     <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.13.0\Hello Cardboard\Scripts\CameraPointer.cs" />
     <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.13.0\Hello Cardboard\Scripts\VrModeController.cs" />
+    <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.13.0\Hello Cardboard\Scripts\PlayerWalk.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

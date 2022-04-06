@@ -36,37 +36,43 @@ extern void ObjectController_OnPointerClick_m42836A892DD52FE0C121F5E37231BF19805
 extern void ObjectController_SetMaterial_mF8B3638C2382300F585FCFAE6EC5626AAE5EC772 (void);
 // 0x0000000C System.Void ObjectController::.ctor()
 extern void ObjectController__ctor_mA008C8DFDEF1B6A05926338921FE1FD30BCEA9BC (void);
-// 0x0000000D System.Boolean VrModeController::get__isScreenTouched()
+// 0x0000000D System.Void PlayerWalk::Start()
+extern void PlayerWalk_Start_mC2A0522668A4A1B6BA9B3778EC541CA2E594DA50 (void);
+// 0x0000000E System.Void PlayerWalk::Update()
+extern void PlayerWalk_Update_m64D73BBD5C575128D4910D965AEB594F44056B7C (void);
+// 0x0000000F System.Void PlayerWalk::.ctor()
+extern void PlayerWalk__ctor_m970CAA6125DE41718E5282DBD7CADD212D85CA47 (void);
+// 0x00000010 System.Boolean VrModeController::get__isScreenTouched()
 extern void VrModeController_get__isScreenTouched_mD72F14326F1D19F3AC970FD0ED9D0C5CD5C6CFB5 (void);
-// 0x0000000E System.Boolean VrModeController::get__isVrModeEnabled()
+// 0x00000011 System.Boolean VrModeController::get__isVrModeEnabled()
 extern void VrModeController_get__isVrModeEnabled_m8D8D68536E09FF2DEAD3795AF30A57BA6DF7C95F (void);
-// 0x0000000F System.Void VrModeController::Start()
+// 0x00000012 System.Void VrModeController::Start()
 extern void VrModeController_Start_m10BF77FE8B825D9640800D5DF7EF791A391FA49B (void);
-// 0x00000010 System.Void VrModeController::Update()
+// 0x00000013 System.Void VrModeController::Update()
 extern void VrModeController_Update_m43F984D5BF13F2C545B508D93645C1C3AC9262D5 (void);
-// 0x00000011 System.Void VrModeController::EnterVR()
+// 0x00000014 System.Void VrModeController::EnterVR()
 extern void VrModeController_EnterVR_m5FD79BF38C6AF621AF9992378BC5C3618FDE5EFB (void);
-// 0x00000012 System.Void VrModeController::ExitVR()
+// 0x00000015 System.Void VrModeController::ExitVR()
 extern void VrModeController_ExitVR_m1FF25DFE5B3BC15CEDE5C42F56CC399693867397 (void);
-// 0x00000013 System.Collections.IEnumerator VrModeController::StartXR()
+// 0x00000016 System.Collections.IEnumerator VrModeController::StartXR()
 extern void VrModeController_StartXR_m57D80B4AD6B28A7C4E36052563B6227E824CDDB4 (void);
-// 0x00000014 System.Void VrModeController::StopXR()
+// 0x00000017 System.Void VrModeController::StopXR()
 extern void VrModeController_StopXR_m0338E8D8035C06E1A46F17C16BBC7933EE9CAA3A (void);
-// 0x00000015 System.Void VrModeController::.ctor()
+// 0x00000018 System.Void VrModeController::.ctor()
 extern void VrModeController__ctor_m94505259847FB7C54346D7CF02AD85793393D141 (void);
-// 0x00000016 System.Void VrModeController/<StartXR>d__10::.ctor(System.Int32)
+// 0x00000019 System.Void VrModeController/<StartXR>d__10::.ctor(System.Int32)
 extern void U3CStartXRU3Ed__10__ctor_mDA431E1365B30DA2F64F1E7875CD387F2231E138 (void);
-// 0x00000017 System.Void VrModeController/<StartXR>d__10::System.IDisposable.Dispose()
+// 0x0000001A System.Void VrModeController/<StartXR>d__10::System.IDisposable.Dispose()
 extern void U3CStartXRU3Ed__10_System_IDisposable_Dispose_m3DC1735AA5EC0D61A72803BB3B33B9499A373336 (void);
-// 0x00000018 System.Boolean VrModeController/<StartXR>d__10::MoveNext()
+// 0x0000001B System.Boolean VrModeController/<StartXR>d__10::MoveNext()
 extern void U3CStartXRU3Ed__10_MoveNext_m9A6340456306ACFADD0D458946C82448A862E68B (void);
-// 0x00000019 System.Object VrModeController/<StartXR>d__10::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x0000001C System.Object VrModeController/<StartXR>d__10::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CStartXRU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mD0B4CE8CBE980FD132B19F40FF2172502B1D0566 (void);
-// 0x0000001A System.Void VrModeController/<StartXR>d__10::System.Collections.IEnumerator.Reset()
+// 0x0000001D System.Void VrModeController/<StartXR>d__10::System.Collections.IEnumerator.Reset()
 extern void U3CStartXRU3Ed__10_System_Collections_IEnumerator_Reset_mD99AEFDB38CFAC11731CDB371647891816288600 (void);
-// 0x0000001B System.Object VrModeController/<StartXR>d__10::System.Collections.IEnumerator.get_Current()
+// 0x0000001E System.Object VrModeController/<StartXR>d__10::System.Collections.IEnumerator.get_Current()
 extern void U3CStartXRU3Ed__10_System_Collections_IEnumerator_get_Current_mD84D9ACDB0A04C619509BA51590975DB84C30B0F (void);
-static Il2CppMethodPointer s_methodPointers[27] = 
+static Il2CppMethodPointer s_methodPointers[30] = 
 {
 	CameraPointer_Update_mF19D284A593E4627CD4F22A58C11FB87B6627FF4,
 	CameraPointer__ctor_m5C4B443EB7C8A518306BF27BD947D938FDF5162D,
@@ -80,6 +86,9 @@ static Il2CppMethodPointer s_methodPointers[27] =
 	ObjectController_OnPointerClick_m42836A892DD52FE0C121F5E37231BF198052017E,
 	ObjectController_SetMaterial_mF8B3638C2382300F585FCFAE6EC5626AAE5EC772,
 	ObjectController__ctor_mA008C8DFDEF1B6A05926338921FE1FD30BCEA9BC,
+	PlayerWalk_Start_mC2A0522668A4A1B6BA9B3778EC541CA2E594DA50,
+	PlayerWalk_Update_m64D73BBD5C575128D4910D965AEB594F44056B7C,
+	PlayerWalk__ctor_m970CAA6125DE41718E5282DBD7CADD212D85CA47,
 	VrModeController_get__isScreenTouched_mD72F14326F1D19F3AC970FD0ED9D0C5CD5C6CFB5,
 	VrModeController_get__isVrModeEnabled_m8D8D68536E09FF2DEAD3795AF30A57BA6DF7C95F,
 	VrModeController_Start_m10BF77FE8B825D9640800D5DF7EF791A391FA49B,
@@ -96,41 +105,45 @@ static Il2CppMethodPointer s_methodPointers[27] =
 	U3CStartXRU3Ed__10_System_Collections_IEnumerator_Reset_mD99AEFDB38CFAC11731CDB371647891816288600,
 	U3CStartXRU3Ed__10_System_Collections_IEnumerator_get_Current_mD84D9ACDB0A04C619509BA51590975DB84C30B0F,
 };
-static const int32_t s_InvokerIndices[27] = 
+static const int32_t s_InvokerIndices[30] = 
 {
-	1056,
-	1056,
-	1056,
-	1056,
-	1056,
-	1056,
-	1056,
-	1056,
-	1056,
-	1056,
-	887,
-	1056,
-	1006,
-	1006,
-	1056,
-	1056,
-	1056,
-	1056,
-	1030,
-	1056,
-	1056,
-	904,
-	1056,
-	1006,
-	1030,
-	1056,
-	1030,
+	1096,
+	1096,
+	1096,
+	1096,
+	1096,
+	1096,
+	1096,
+	1096,
+	1096,
+	1096,
+	906,
+	1096,
+	1096,
+	1096,
+	1096,
+	1046,
+	1046,
+	1096,
+	1096,
+	1096,
+	1096,
+	1070,
+	1096,
+	1096,
+	923,
+	1096,
+	1046,
+	1070,
+	1096,
+	1070,
 };
+extern const Il2CppDebuggerMetadataRegistration g_DebuggerMetadataRegistrationAssemblyU2DCSharp;
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	27,
+	30,
 	s_methodPointers,
 	0,
 	NULL,
@@ -141,7 +154,7 @@ const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule =
 	NULL,
 	0,
 	NULL,
-	NULL,
+	&g_DebuggerMetadataRegistrationAssemblyU2DCSharp,
 	NULL, // module initializer,
 	NULL,
 	NULL,
